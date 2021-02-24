@@ -1,0 +1,71 @@
+body
+{
+  background-color: #95DFFF;
+}
+
+h1
+{
+  font-size: 45px;
+  text-align: center;
+  color: red;
+}
+
+h2
+{
+  font-size: 30px;
+  text-align: center;
+  color: #0E9C23;
+}
+
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p
+{
+  text-align: center;
+}
+
+div
+{
+  float: left;
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span
+{
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul
+{
+  text-align: justify;
+}
+
+footer
+{
+  border: 3px solid black;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  font-size: 18px;
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+address
+{
+  font-style: normal;
+}
